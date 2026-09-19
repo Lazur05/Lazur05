@@ -1,6 +1,6 @@
 # Welcome to my Profile! 😀
 
-My name is *Maciej*, and I'm currently learning to become a Frontend Developer.
+My name is *Maciej*, and I'm currently learning to become a Fullstack Developer/Devops engineer.
 
 
 ## My skills:
